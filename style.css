@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Kaisei Tokumin', serif;
+    background-color: khaki;
+}
+
+.header_div
+{
+    background-color: lavenderblush;
+    color:lightsalmon;
+}
+
+.header_div p{
+    font-family: 'Kaisei Tokumin', serif;
+    color:rgb(238, 172, 238);
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.main_div button{
+    font-family: 'Kaisei Tokumin', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: thistle;
+    line-height:3;
+    text-align: center;
+    text-shadow:5px 5px 5px grey ;
+}
